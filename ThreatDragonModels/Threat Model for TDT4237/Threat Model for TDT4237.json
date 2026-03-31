@@ -1663,7 +1663,12 @@
               "cell": "87b9657d-86bf-487f-8867-62013552153a",
               "port": "df0c3289-6b5d-4b4c-9fb5-36a2c5f2a2b8"
             },
-            "vertices": []
+            "vertices": [
+              {
+                "x": 460,
+                "y": 165
+              }
+            ]
           },
           {
             "shape": "flow",
@@ -2885,13 +2890,6 @@
                 "informationDisclosure": 0,
                 "denialOfService": 0
               }
-            },
-            "tools": {
-              "items": [
-                "boundary",
-                "button-remove"
-              ],
-              "name": null
             }
           },
           {
