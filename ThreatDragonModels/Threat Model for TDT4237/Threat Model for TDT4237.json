@@ -1,0 +1,27 @@
+{
+  "version": "2.6.1-RC1",
+  "summary": {
+    "title": "Threat Model for TDT4237",
+    "owner": "Tristan and Eivind",
+    "description": "* manage the bookings and logistics of a luxury resort.\n* guarantee discretion for all of the guests, who often register under pseudonyms in the system\n* keep accurate guest information in order to manage billing, as well as keeping track of food preferences, personal requests and special room service\n* manage surveillance data from the resort premises to detect unwanted intruders. \n          * AI-based facial recognition should be used to map people in video recordings with legit guests and staff members in the system.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.1-RC1",
+        "cells": [],
+        "description": "Threat diagram for the resort"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "None",
+    "threatTop": 0
+  }
+}
